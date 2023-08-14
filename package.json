@@ -1,6 +1,7 @@
 { 
   "scripts": {
     "start": "vite",
+    //build command is for deployment
     "build": "vite build"
   },
   "devDependencies": {
